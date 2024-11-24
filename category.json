@@ -1,10 +1,10 @@
- {
+{
    "cid":"bcd1",
    "categories":[
       {
          "categorylabel":"Dairy",
          "image":"https://placehold.co/600x400",
-        "color":"#05C0F7",
+         "color":"#05C0F7",
          "categorylist":[
             {
                "label":"Curd",
@@ -36,7 +36,7 @@
       {
          "categorylabel":"Bakery Snacks",
          "image":"https://placehold.co/600x400",
-          "color":"#05C0F7",
+         "color":"#05C0F7",
          "categoryList":[
             {
                "label":"Cheese & Garlic Breads",
