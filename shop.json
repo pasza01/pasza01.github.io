@@ -6,7 +6,7 @@
       "textColor": "#000000",
       "enableMarquee": false,
       "enableMoreBtn": true,
-      "fontSize": 16,
+      "fontSize": 16.0,
       "moreBtnBackground": "#7accc8",
       "moreBtnTxtColor": "#323d42"
    },
