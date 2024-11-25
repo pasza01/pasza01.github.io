@@ -108,7 +108,8 @@
       "parentId":"personalcare"
       },
       {
-      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "categoryId":"bcd01",
+      "image":"https://images.freshop.ncrcloud.com/00035000996640/51b7d4315904a58e63a396b501f74f8b_large.png",
       "label":"Health & Hygiene",
       "parentId":"fresh"
       },
